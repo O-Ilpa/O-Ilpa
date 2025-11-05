@@ -14,25 +14,6 @@
 
 ---
 
-## 💼 Experience
-
-**Software Engineer (part-time) — Spiritual Data**  
-_Remote (USA) — 09/2025 – Present_  
-- Developed core product features and public-facing pages to improve functionality and UX.  
-- Supported testing, deployments, and maintenance for production reliability.  
-- Contributed to chatbot improvements and cross-functional engineering work.  
-- Tech stack used: Python, FastAPI, React (MUI).
-
-**Frontend & Backend Developer — Tamayoz Real Estate Company (Freelance)**  
-_Alexandria, Egypt — 04/2025 – 05/2025_  
-- Built a full-stack property management system with admin dashboard and dynamic property show pages.  
-- Implemented mobile-first UI using React + Tailwind CSS.  
-- Built secure RESTful APIs with Express.js and MongoDB.  
-- Tech stack: React, Tailwind CSS, Node.js, Express.js, MongoDB.
-
----
-
-
 ## 🧰 Skills
 
 <p align="center">
@@ -63,12 +44,40 @@ _Alexandria, Egypt — 04/2025 – 05/2025_
 
 ---
 
+## 💼 Experience
+
+**Software Engineer (part-time) — Spiritual Data**  
+_Remote (USA) — 09/2025 – Present_  
+- Developed core product features and public-facing pages to improve functionality and UX.  
+- Supported testing, deployments, and maintenance for production reliability.  
+- Contributed to chatbot improvements and cross-functional engineering work.  
+- Tech stack used: Python, FastAPI, React (MUI).
+
+**Frontend & Backend Developer — Tamayoz Real Estate Company (Freelance)**  
+_Alexandria, Egypt — 04/2025 – 05/2025_  
+- Built a full-stack property management system with admin dashboard and dynamic property show pages.  
+- Implemented mobile-first UI using React + Tailwind CSS.  
+- Built secure RESTful APIs with Express.js and MongoDB.  
+- Tech stack: React, Tailwind CSS, Node.js, Express.js, MongoDB.
+
+---
+
+
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Ilpa&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="O-Ilpa's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=O-Ilpa&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="O-Ilpa's GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ilpa&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
 </p>
+
+<p align="center">
+  <a href="https://camo.githubusercontent.com/f701d05545835608d8b6bbe2cc0d427e2cec1d50737284ea4ab715dfd6c56751/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f2d696c7061267468656d653d6d65726b6f26686964655f626f726465723d66616c7365">
+    <img src="https://camo.githubusercontent.com/f701d05545835608d8b6bbe2cc0d427e2cec1d50737284ea4ab715dfd6c56751/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f2d696c7061267468656d653d6d65726b6f26686964655f626f726465723d66616c7365" 
+         alt="GitHub Streak" />
+  </a>
+</p>
+
+
 
 ---
 
