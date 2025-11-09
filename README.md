@@ -63,24 +63,6 @@ _Alexandria, Egypt — 04/2025 – 05/2025_
 ---
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=O-Ilpa&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="O-Ilpa's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o-ilpa&theme=merko&show_icons=true&hide_border=false&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <a href="https://camo.githubusercontent.com/f701d05545835608d8b6bbe2cc0d427e2cec1d50737284ea4ab715dfd6c56751/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f2d696c7061267468656d653d6d65726b6f26686964655f626f726465723d66616c7365">
-    <img src="https://camo.githubusercontent.com/f701d05545835608d8b6bbe2cc0d427e2cec1d50737284ea4ab715dfd6c56751/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6f2d696c7061267468656d653d6d65726b6f26686964655f626f726465723d66616c7365" 
-         alt="GitHub Streak" />
-  </a>
-</p>
-
-
-
----
-
 ## 📫 Contact
 
 - **Email:** <omarilpa.eg@gmail.com>  
