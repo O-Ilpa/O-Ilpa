@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Omar Ilpa (O-Ilpa)</h1>
+<h1 align="center">Hi, I'm Omar Ilpa</h1>
 
 <p align="center">
   <strong>Software Engineer | Backend (Node.js, Express, MongoDB) | Frontend (React, Tailwind)</strong><br/>
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧰 Skills
+## Skills
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
@@ -44,7 +44,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Software Engineer (part-time) — Spiritual Data**  
 _Remote (USA) — 09/2025 – Present_  
@@ -63,7 +63,7 @@ _Alexandria, Egypt — 04/2025 – 05/2025_
 ---
 
 
-## 📫 Contact
+## Contact
 
 - **Email:** <omarilpa.eg@gmail.com>  
 - **Phone:** +20 120 218 1828  
@@ -72,11 +72,11 @@ _Alexandria, Egypt — 04/2025 – 05/2025_
 
 ---
 
-## 🎯 What I'm learning & looking for
+## What I'm learning & looking for
 - Deepening backend architecture skills: scalable APIs, performance, and reliability.  
 - Expanding cloud familiarity (AWS EC2, deployment pipelines).  
 - Open to **junior/entry-level remote roles** and freelance opportunities in full-stack / backend engineering.
 
 ---
 
-> "The best way to learn is to build." – Omar Ilpa
+> "The best way to learn is to build." --> Omar Ilpa
