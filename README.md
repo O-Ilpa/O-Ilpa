@@ -43,22 +43,43 @@
 
 
 ---
-
 ## Experience
 
-**Software Engineer (part-time) — Spiritual Data**  
-_Remote (USA) — 09/2025 – Present_  
-- Developed core product features and public-facing pages to improve functionality and UX.  
-- Supported testing, deployments, and maintenance for production reliability.  
-- Contributed to chatbot improvements and cross-functional engineering work.  
-- Tech stack used: Python, FastAPI, React (MUI).
+**Junior Software Engineer - HelpAfterAccident**
+*Remote (USA) | 01/2026 - Present*
 
-**Frontend & Backend Developer — Tamayoz Real Estate Company (Freelance)**  
-_Alexandria, Egypt — 04/2025 – 05/2025_  
-- Built a full-stack property management system with admin dashboard and dynamic property show pages.  
-- Implemented mobile-first UI using React + Tailwind CSS.  
-- Built secure RESTful APIs with Express.js and MongoDB.  
-- Tech stack: React, Tailwind CSS, Node.js, Express.js, MongoDB.
+* Engineered scalable web scraping systems collecting **500,000+ verified professional records** across 7 U.S. states to support outbound B2B outreach.
+* Developed resilient Playwright-based automation capable of multi-day execution, handling dynamic pages, retries, and failure recovery.
+* Standardized, cleaned, and deduplicated large datasets to ensure accuracy, consistency, and production usability.
+* Collaborated with internal teams to validate scraped data and improve data quality.
+* Translated Figma designs into production-ready web pages while maintaining visual accuracy and performance.
+* Refactored and optimized existing pages to improve responsiveness and maintain design consistency across breakpoints.
+* Tech stack: **Python, Playwright, Pandas, React, Tailwind CSS, TypeScript**
+
+**Software Developer Intern - HelpAfterAccident**
+*Remote (USA) | 12/2025 - 01/2026*
+
+* Assisted in developing web scraping and automation solutions for large-scale data collection.
+* Supported data validation, testing, and quality assurance efforts.
+* Contributed to frontend implementation and maintenance tasks across internal projects.
+* Gained hands-on experience with web automation, data processing, and modern development workflows.
+* Tech stack: **Python, Playwright, Pandas, React, Tailwind CSS**
+
+**Software Engineer (Part-Time) - Spiritual Data**
+*Remote (USA) | 09/2025 - Present*
+
+* Developed core product features and public-facing pages to improve functionality and user experience.
+* Supported testing, deployments, and maintenance to ensure production reliability.
+* Contributed to chatbot improvements and cross-functional engineering initiatives.
+* Tech stack: **Python, FastAPI, React (MUI)**
+
+**Frontend & Backend Developer - Tamayoz Real Estate Company (Freelance)**
+*Alexandria, Egypt | 04/2025 - 05/2025*
+
+* Built a full-stack property management system with an admin dashboard and dynamic property showcase pages.
+* Implemented a mobile-first user interface using React and Tailwind CSS.
+* Built secure RESTful APIs with Express.js and MongoDB.
+* Tech stack: **React, Tailwind CSS, Node.js, Express.js, MongoDB**
 
 ---
 
